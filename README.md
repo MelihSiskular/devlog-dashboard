@@ -72,6 +72,7 @@ Run:
 npm run build
 ```
 
-## Screenshot
+## Screenshot
+
 <img width="1241" height="696" alt="Ekran Resmi 2026-05-18 07 45 10" src="https://github.com/user-attachments/assets/dfcf4627-5d90-412a-affe-11a7411d56ab" />
 
