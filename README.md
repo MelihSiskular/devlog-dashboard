@@ -74,5 +74,5 @@ npm run build
 
 ## Screenshot
 
-<img width="1241" height="696" alt="Ekran Resmi 2026-05-18 07 45 10" src="https://github.com/user-attachments/assets/dfcf4627-5d90-412a-affe-11a7411d56ab" />
+<img width="1234" height="715" alt="Ekran Resmi 2026-05-18 07 47 36" src="https://github.com/user-attachments/assets/a59e3860-82e3-4ab8-9061-831c1416e5a5" />
 
